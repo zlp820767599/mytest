@@ -1,1 +1,4 @@
-3515316416646465
+-- ¹Ø¼ü×ÖÊéĞ´Ë³Ğò
+select from where group by having order by
+-- ¹Ø¼ü×ÖÖ´ĞĞË³Ğò
+from where group by having select order by
